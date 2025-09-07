@@ -40,6 +40,9 @@ public class Alien {
 		
 		System.out.println(a2.getAge());
 		System.out.println(a2.getName());
+		System.out.println("hii hello");
+		System.out.println("good morning");
+		
 
 	}
 
